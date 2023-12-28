@@ -1,11 +1,13 @@
-
-<h1 align="center"><b>Hi , I'm Zalazar Joel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="cender"><b>¡¡G00d t0 M33t You!!</b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="65">
+   
+<h1 align="center"><b>Hi , I'm Zalazar Joel </b><img src="https://media4.giphy.com/media/bnC70HkiVrZEheSeYS/giphy.gif?cid=ecf05e47o4ibn3uykinl3t0qck9yxzuk8agpsepccm7bkop9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="35"></h1>
+<h2 align="center"><b>¡¡G00d t0 M33t You!!</b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="85">
 </h2>
+
+
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR3N24zYzhpcjE3cnUwYmo3b244bm5mZWEzbmY0cGVlMmEyaTU2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width = 50px></picture> **About me**
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
