@@ -1,21 +1,31 @@
    
-<h1 align="center"><b>Hi , I'm Zalazar Joel </b><img src="https://media4.giphy.com/media/bnC70HkiVrZEheSeYS/giphy.gif?cid=ecf05e47o4ibn3uykinl3t0qck9yxzuk8agpsepccm7bkop9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="35"></h1>
-<h2 align="center"><b>¡¡G00d t0 M33t You!!</b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="85">
+<h1 align="center"><b>Hi , I'm Zalazar Joel </b></h1>
+<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
+   <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY3aHZsNm13eGE1Y2JucDd3YmU0NHF2ZnF6bzZyZGxkaHR3bjA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width = 40%></picture> <h1 style="color: red;">
 </h2>
 
 
 
 <br>
 
-## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR3N24zYzhpcjE3cnUwYmo3b244bm5mZWEzbmY0cGVlMmEyaTU2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width = 50px></picture> **About me**
+<h1 style="color: red;"><b>About me</b></h1>
+<p>
+
+   
+</p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+
 - A passionate developer
+
 - Currently learning Web Development by Self
+
 - Universitary systems student
-  
+
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2oyc2RxaTkzOGtreTltdGlvbDFxczA5MnV5OHV1cnF6Zm0zdWdoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3Gin2TnIVOE5TiG94/giphy.gif" width=40%>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
