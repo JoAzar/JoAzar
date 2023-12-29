@@ -165,10 +165,9 @@
 
 <br>
 <div align="center">
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0538.gif" />
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0538.gif" width="30%"/>
  <img src="https://www.gifsanimados.org/data/media/1446/pokemon-imagen-animada-0098.gif"/>
-
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0538.gif" />
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0538.gif" width="30%" />
 </div>
 <br><br>
 <h1><b>¡Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></b></h1>
