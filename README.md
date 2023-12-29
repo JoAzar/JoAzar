@@ -1,14 +1,22 @@
- <h1 align="center"><b>Hi , I'm Zalazar Joel </b></h1>
+ <h1 align="center">Hi , You're wellcome</h1>
+ <div align="center">
+   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
+ </div>
 <h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
    <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY3aHZsNm13eGE1Y2JucDd3YmU0NHF2ZnF6bzZyZGxkaHR3bjA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width = 40%></picture> <h1 style="color: red;">
 </h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h1><b>About me: </b></h1>
+
+<div align="center">
+ <h1>About me</h1>
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0297.gif"/>
+</div>
 <br>
  
 
-<h1 align="center">¡The monkey hero!</h1>
+<h1 align="left">¡The monkey hero!</h1>
+<br>
  
 <h3>A passionate developer, i'm currently learning Web Development by self and studing systems in the Universitary.</h3>
    
@@ -150,7 +158,11 @@
  
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center">
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0521.gif" />
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0521.gif" />
+</div>
+<br><br>
 <h1><b>¡Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></b></h1>
 
 
