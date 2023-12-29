@@ -147,16 +147,19 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- <h1><b> 🥇 Recognitions 🥇 <b></h1>
+<div align="center">
+  <h1><b> 🥇 Recognitions 🥇 <b></h1>
+  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
+</div><br>
  
- <h2>Learning Statics 2023 from Udemy</h2>
- <h3>1127 minutes</h3>
- <h3>More than 89% of students</h3>
- <h3>different topics learned: 13</h3>
+ - <h2>Learning Statics 2023 from Udemy</h2>
+   <h3>1127 minutes</h3>
+   <h3>More than 89% of students</h3>
+   <h3>different topics learned: 13</h3>
  <br>
 
- <h2>Colaborator in Mental health cycle</h2>
- <h3>Organized by the academic secretary and the general secretary of the UNGS</h3>
+ - <h2>Colaborator in Mental health cycle</h2>
+    <h3>Organized by the academic secretary and the general secretary of the UNGS</h3>
  <br>
  
 
