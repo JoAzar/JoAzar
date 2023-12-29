@@ -137,6 +137,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
  <h1><b>Recognitions<b></h1>
+ <h3>Learning Statics 2023 from Udemy</h3>
+ <h2><b>1127</b> minutes</h2>
+ <h1>More than <b>89%</b> of students</h1>
+ <h3>different topics learned: 13</h3>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
