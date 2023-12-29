@@ -6,11 +6,14 @@
    <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY3aHZsNm13eGE1Y2JucDd3YmU0NHF2ZnF6bzZyZGxkaHR3bjA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width = 40%></picture> <h1 style="color: red;">
 </h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br><br>
 
 <div align="center">
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
  <h1>About me</h1>
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0297.gif"/>
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
 </div>
 <br>
  
@@ -24,7 +27,7 @@
 
 <h3>If you have a course free is a just deal</h3>
 
-<h3>Sometimes formal, other times informal, but always cool</h3>
+<h3>Sometimes formal, other times informal, but always cool</h3><br>
 
 <div align="center">
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWM5cW53bno4Yzc3aXZwN3g4cXYxeXoyenU2cnFiaDIzcXRiczJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" width=30%>
