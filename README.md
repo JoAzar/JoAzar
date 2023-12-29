@@ -18,14 +18,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-- A passionate developer
+<b> 
+   
+- A passionate developer, i'm currently learning Web Development by self and studing systems in the Universitary.
+   
+- I fall in love for tecnologie, hardware, software, wathever!
 
-- Currently learning Web Development by Self
+- Sometimes formal, other times informal, but always cool
 
-- Universitary systems student
+<b>
 
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2oyc2RxaTkzOGtreTltdGlvbDFxczA5MnV5OHV1cnF6Zm0zdWdoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3Gin2TnIVOE5TiG94/giphy.gif" width=40%>
-
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWM5cW53bno4Yzc3aXZwN3g4cXYxeXoyenU2cnFiaDIzcXRiczJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" width=30%>
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MxdmxtcXk4OGFkNWphZTIyZnJ4czIyc2hiOXYxb3RhZzBzenU4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46lBXGVqrI0YTKlfwG/giphy.gif" width=30%>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -158,4 +162,6 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
  www.youtube.com/@Zalazar.J 
+
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlvenFxejh6MzB0Z3dob3FxNmE2Ymt0Njg4aWszajRtYzVmNjRlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.gif" width="100%">
  
