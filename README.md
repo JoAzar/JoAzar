@@ -147,11 +147,9 @@
 
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" url="www.linkedin.com/in/joel-zalazar-a69325191" />
-     
+  <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <h3>www.linkedin.com/in/joel-zalazar-a69325191</h3>
 </p>
 
  
