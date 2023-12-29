@@ -160,6 +160,7 @@
 <br>
 <div align="center">
  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0521.gif" />
+ <img src="https://www.gifsanimados.org/data/media/209/gato-imagen-animada-0043.gif"" />
  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0521.gif" />
 </div>
 <br><br>
