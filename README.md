@@ -1,5 +1,4 @@
-   
-<h1 align="center"><b>Hi , I'm Zalazar Joel </b></h1>
+ <h1 align="center"><b>Hi , I'm Zalazar Joel </b></h1>
 <h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
    <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY3aHZsNm13eGE1Y2JucDd3YmU0NHF2ZnF6bzZyZGxkaHR3bjA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width = 40%></picture> <h1 style="color: red;">
 </h2>
@@ -27,12 +26,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
-  
-<br>
-
-
-<p align="center">- <h1>Languages</h1>
+<p align="center"><h1>Languages</h1>
    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html" />
@@ -148,15 +142,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
- 
- 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
- www.youtube.com/@Zalazar.J 
+www.youtube.com/@Zalazar.J 
 
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlvenFxejh6MzB0Z3dob3FxNmE2Ymt0Njg4aWszajRtYzVmNjRlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfLUF9PuBV9SRZKJcv/giphy.gif" width="100%">
- 
