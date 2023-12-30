@@ -149,7 +149,7 @@
 
 <div align="center">
  
-  <h1><b>$\textcolor{#ffda33}{\textsf{ 🥇 Recognitions 🥇 }}$<b></h1>
+  <h1>$\textcolor{#ffda33}{\textsf{🥇 Recognitions 🥇}}$</h1>
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
 </div><br>
  
