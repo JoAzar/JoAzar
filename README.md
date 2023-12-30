@@ -43,7 +43,7 @@
 <br>
 
 
-<p align="center"><h1>Languages</h1>
+<p align="center"><h1>$\textcolor{#ffa733}{\textsf{Languages}}$</h1>
   <a>
     <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html" />
   </a>
