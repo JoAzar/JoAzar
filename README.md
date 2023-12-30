@@ -58,7 +58,7 @@
 
 <br>
   
-<h3>$\textcolor{##33ccff}{\textsf{Softwares and Tools}}$</h3>
+<h3>$\textcolor{#33ccff}{\textsf{Softwares and Tools}}$</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -74,14 +74,14 @@
 
 <br>
 
-<h3>$\textcolor{##33ccff}{\textsf{Office Tools}}$</h3>
+<h3>$\textcolor{#33ccff}{\textsf{Office Tools}}$</h3>
 
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 <br>
 
-<h3>$\textcolor{##33ccff}{\textsf{Version Control}}$</h3>
+<h3>$\textcolor{#33ccff}{\textsf{Version Control}}$</h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -89,7 +89,7 @@
 
 <br>
 
-<h3>$\textcolor{##33ccff}{\textsf{IDEs/Editors}}$</h3>
+<h3>$\textcolor{#33ccff}{\textsf{IDEs/Editors}}$</h3>
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
