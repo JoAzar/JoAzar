@@ -148,7 +148,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
-  <h1><b> 🥇 Recognitions 🥇 <b></h1>
+ 
+  <h1><b>$\textcolor{#ffda33}{\textsf{ 🥇 Recognitions 🥇 }}$<b></h1>
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
 </div><br>
  
