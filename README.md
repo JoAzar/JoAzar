@@ -50,7 +50,7 @@
 </p>
 <br>
 
-$\textcolor{#fcff33}{\textsf{**Education**}}$
+<h1>$\textcolor{#fcff33}{\textsf{**Education**}}$</h1>
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
