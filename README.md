@@ -100,21 +100,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
  <br>
- 
- - **Database**:
+
+ <h3>$\textcolor{#33ccff}{\textsf{Database}}$</h3>
 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
  <br>
- 
-  - **Cloud Hosting**:
+
+ <h3>$\textcolor{#33ccff}{\textsf{Cloud Hosting}}$</h3>
   
  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
   
  <br>
 
- - **Cloud Storage**:
+ <h3>$\textcolor{#33ccff}{\textsf{Cloud Storage}}$</h3>
 
  ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
@@ -122,21 +122,19 @@
  ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 
  <br>
-  
- - **Design**:
+
+ <h3>$\textcolor{#33ccff}{\textsf{Design}}$</h3>
   
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
  <br>
-  
- - **Forum**:
+ <h3>$\textcolor{#33ccff}{\textsf{Forum}}$</h3>
   
  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
  ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
   
  <br>
-  
- - **Search Engines**:
+ <h3>$\textcolor{#33ccff}{\textsf{Search Engines}}$</h3>
   
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
