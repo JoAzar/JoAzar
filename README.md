@@ -171,8 +171,8 @@
  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0538.gif" width="30%" />
 </div>
 <br><br>
-<h1><b>¡Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></b></h1>
 
+<h1>$\textcolor{#ff3370}{\textsf{¡Let's Connect!}}$</h1><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
