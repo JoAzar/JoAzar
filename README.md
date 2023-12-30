@@ -1,3 +1,5 @@
+$\textcolor{red}{\textsf{Color didint work .}}$
+ 
  <h1 align="center">-Hi , You're wellcome</h1>
  <div align="center">
    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
