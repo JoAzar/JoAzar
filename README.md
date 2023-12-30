@@ -181,7 +181,7 @@
 </p>
 
 <div align="center">
- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+ <div>![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)<div>
  <h1>$\textcolor{#ff335c}{\textsf{www.youtube.com/@Zalazar.J}}$</h1>
 </div>
 
