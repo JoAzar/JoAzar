@@ -20,7 +20,7 @@
 <br>
  
 
-<h1 align="left">¡The Super Monkey Hero!</h1>
+<h1 align="left">\textcolor{#FF5733}{¡The Super Monkey Hero!}</h1>
 <br>
  
 <h3>A passionate developer, i'm currently learning Web Development by self and studing systems in the Universitary.</h3>
