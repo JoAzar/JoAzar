@@ -1,5 +1,5 @@
-
  <h1 align="center">$\textcolor{#14add6}{\textsf{𝐇𝐢 , 𝐘𝐨𝐮'𝐫𝐞 𝐰𝐞𝐥𝐥𝐜𝐨𝐦𝐞}}$</h1>
+
  <div align="center">
    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
  </div>
@@ -10,11 +10,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<p align="center">
-  <a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api?username=JoAzar&hide_border=true&show_icons=true" alt="JoAzar's github stats"></a>
-</p>
+
+<a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api?username=JoAzar&hide_border=true&show_icons=true" alt="JoAzar's github stats"></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <br><br>
 
@@ -169,13 +172,6 @@
     <h3>Organized by the academic secretary and the general secretary of the UNGS</h3>
  <br>
  
-
-<br>
-<div align="center">
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0538.gif" width="30%"/>
- <img src="https://www.gifsanimados.org/data/media/1446/pokemon-imagen-animada-0098.gif"/>
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0538.gif" width="30%" />
-</div>
 <br><br>
 
 <h1>$\textcolor{#ff3370}{\textsf{¡Let's Connect!}}$<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1>
@@ -193,6 +189,17 @@
 <h1 align="center">$\textcolor{#14add6}{\textsf{Número de visitas}}$</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/JoAzar/count.svg)
+
+ 
+[![Linkedin: Zalazar](https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191/)](https://www.linkedin.com/in/joel-zalazar-a69325191/)
+
+[![GitHub JoAzar](https://img.shields.io/github/followers/JoAzar?label=follow&style=social)](https://github.com/JoAzar)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social)
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/lIRIIID3ll?style=social)
 
 
 
