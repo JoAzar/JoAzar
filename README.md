@@ -1,5 +1,4 @@
 
- 
  <h1 align="center">$\textcolor{#14add6}{\textsf{𝐇𝐢 , 𝐘𝐨𝐮'𝐫𝐞 𝐰𝐞𝐥𝐥𝐜𝐨𝐦𝐞}}$</h1>
  <div align="center">
    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
@@ -183,16 +182,9 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 <h3>www.youtube.com/@SuperMonkeyHero</h3>
 
- <!--                     
-mmmmm                     mmmmm 
-MM        `7MM"""Mq.         MM 
-MM          MM   `MM.        MM 
-MM          MM   ,M9         MM 
-MM          MMmmdM9          MM 
-MM          MM  YM.          MM 
-MM          MM   `Mb.        MM 
-MM        .JMML. .JMM.       MM 
-MM                           MM 
-MMmmm                     mmmMM
--->
+<h1 align="center">$\textcolor{#14add6}{\textsf{Número de visitas}}$</h1>
+
+![Visitor Count](https://profile-counter.glitch.me/JoAzar/count.svg)
+
+
 
