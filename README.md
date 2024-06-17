@@ -199,7 +199,7 @@
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social)
 
-![YouTube Channel Views](http://canarytokens.com/articles/traffic/feedback/00pshuppxk802ra5pprddm13y/index.html)
+[Para negocios contactame aquí](http://canarytokens.com/articles/traffic/feedback/00pshuppxk802ra5pprddm13y/index.html)
 
 
 
