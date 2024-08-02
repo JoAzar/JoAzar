@@ -174,7 +174,7 @@
  
 <br><br>
 
-<h1>$\textcolor{#14add6}{\textsf{¡Let's Connect!}}$></h1>
+<h1>$\textcolor{#14add6}{\textsf{¡Let's Connect!}}$</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
