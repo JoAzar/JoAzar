@@ -183,7 +183,7 @@
 </p>
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-<h3>www.youtube.com/@SuperMonkeyHero</h3>
+<h3>www.youtube.com/@IRedMonkey</h3>
 <br>
 
 <h1 align="center">$\textcolor{#14add6}{\textsf{Número de visitas}}$</h1>
@@ -198,8 +198,6 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social)
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social)
-
-[Para negocios contactame aquí]()
 
 
 
