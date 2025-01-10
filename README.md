@@ -174,8 +174,10 @@
 
  - <h2>Introduction to Cybersec course</h2>
     <h3>Certifed from CISCO</h3>
-    [![Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/2c23c9bd-019d-47c4-9dec-212df57fcdab/public_url)
- <br>
+<a href="https://www.credly.com/badges/2c23c9bd-019d-47c4-9dec-212df57fcdab/public_url">
+  <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Badge" width="120"/>
+</a>
+ 
 <br><br>
 
 <h1>$\textcolor{#14add6}{\textsf{¡Let's Connect!}}$</h1>
