@@ -176,8 +176,6 @@
     <h3>Certifed from CISCO</h3>
     [![Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/2c23c9bd-019d-47c4-9dec-212df57fcdab/public_url)
  <br>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c23c9bd-019d-47c4-9dec-212df57fcdab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- 
 <br><br>
 
 <h1>$\textcolor{#14add6}{\textsf{¡Let's Connect!}}$</h1>
