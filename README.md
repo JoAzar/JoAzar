@@ -29,7 +29,7 @@
 <br>
  
 
-<h1 align="left">$\textcolor{#FF5733}{\textsf{¡Be Red!}}$</h1>
+<h1 align="center">$\textcolor{#FF5733}{\textsf{¡Be Red!}}$</h1>
 <br>
  
 <h3>A passionate developer, i'm currently learning Web Development by self and studing systems in the Universitary.</h3>
@@ -170,6 +170,10 @@
 
  - <h2>Colaborator in Mental health cycle</h2>
     <h3>Organized by the academic secretary and the general secretary of the UNGS</h3>
+ <br>
+
+ - <h2>Introduction to Cybersec course</h2>
+    <h3>Certifed from CISCO</h3>
  <br>
  
 <br><br>
