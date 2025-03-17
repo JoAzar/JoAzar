@@ -172,14 +172,12 @@
     <h3>Organized by the academic secretary and the general secretary of the UNGS</h3>
  <br>
 
- - <h2>Introduction to Cybersec course</h2>
+ - <h2>Introduction to Cybersec course and other Cisco Courses</h2>
     <h3>Certifed from CISCO</h3>
 <a href="https://www.credly.com/badges/2c23c9bd-019d-47c4-9dec-212df57fcdab/public_url">
   <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Badge" width="120"/>
 </a>
 
- - <h2>Other CISCO courses</h2>
- <h3>Certifed from CISCO</h3>
 <a href="https://www.credly.com/earner/earned/share/4b37b4c2-60c7-44e9-95bf-b3776271e90c">
   <img src="https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Badge" width="120"/>
 </a>
@@ -195,14 +193,14 @@
 </p>
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-<h3>www.youtube.com/@IRedMonkey</h3>
+<h3>www.youtube.com/@IIRedIII</h3>
 <br>
 
 <h1 align="center">$\textcolor{#14add6}{\textsf{Número de visitas}}$</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/JoAzar/count.svg)
 
-[![Linkedin: Zalazar](https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191/)](https://www.linkedin.com/in/joel-zalazar-a69325191/)
+[![Linkedin: Joel Zalazar](https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191/)](https://www.linkedin.com/in/joel-zalazar-a69325191/)
 
 [![GitHub JoAzar](https://img.shields.io/github/followers/JoAzar?label=follow&style=social)](https://github.com/JoAzar)
 
