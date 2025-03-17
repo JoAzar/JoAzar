@@ -177,6 +177,12 @@
 <a href="https://www.credly.com/badges/2c23c9bd-019d-47c4-9dec-212df57fcdab/public_url">
   <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Badge" width="120"/>
 </a>
+
+ - <h2>Other CISCO courses</h2>
+ <h3>Certifed from CISCO</h3>
+<a href="https://www.credly.com/earner/earned/share/4b37b4c2-60c7-44e9-95bf-b3776271e90c">
+  <img src="https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Badge" width="120"/>
+</a>
  
 <br><br>
 
