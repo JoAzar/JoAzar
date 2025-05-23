@@ -45,12 +45,9 @@
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2M3g5anZnMXUwa2c1cGY5MTBqanBwMnM2Ynd4MjNqa3ZoaXU1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yNZBiGoV73NUN8Sn14/giphy.gif" width=40%>
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b>Skills</b>
 <br>
-
 
 <div align="center">
   <h1>$\textcolor{#ffa733}{\textsf{Languages}}$</h1>
