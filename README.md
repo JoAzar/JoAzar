@@ -18,17 +18,13 @@
   <a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"></a>
 </div>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <br><br>
 
 <div align="center">
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
- <h1>About me</h1>
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
+  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
+  <h1>About me</h1>
+  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
 </div>
 <br>
  
