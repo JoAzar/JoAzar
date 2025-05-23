@@ -1,5 +1,7 @@
-### 𝐇𝐢 , 𝐘𝐨𝐮'𝐫𝐞 𝐰𝐞𝐥𝐥𝐜𝐨𝐦𝐞
-
+<div align="center">
+  <h1>𝐇𝐢 , 𝐘𝐨𝐮'𝐫𝐞 𝐰𝐞𝐥𝐥𝐜𝐨𝐦𝐞</h1>
+</div>
+ 
  <div align="center">
    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
  </div>
