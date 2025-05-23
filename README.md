@@ -15,9 +15,10 @@
 
 <div align="center">
   <a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api?username=JoAzar&hide_border=true&show_icons=true" alt="JoAzar's github stats"></a>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  <a>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  </a>
 </div>
-
 
 
 
