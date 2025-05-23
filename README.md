@@ -1,10 +1,9 @@
 <div align="center">
   <h1>𝐇𝐢 , 𝐘𝐨𝐮'𝐫𝐞 𝐰𝐞𝐥𝐥𝐜𝐨𝐦𝐞</h1>
 </div>
- 
- <div align="center">
-   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
- </div>
+<div align="center">
+ <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
+</div>
 <h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
    <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY3aHZsNm13eGE1Y2JucDd3YmU0NHF2ZnF6bzZyZGxkaHR3bjA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width = 40%></picture> <h1 style="color: red;">
 </h2>
