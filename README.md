@@ -52,11 +52,12 @@
 <br>
 
 
-<p align="center"><h1>$\textcolor{#ffa733}{\textsf{Languages}}$</h1>
-  <a>
+<div align="center">
+  <h1>$\textcolor{#ffa733}{\textsf{Languages}}$</h1>
+  <div>
     <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html" />
-  </a>
-</p>
+  </div>
+</div>
 <br>
 
 <h3>$\textcolor{#fcff33}{\textsf{Education}}$</h3>
