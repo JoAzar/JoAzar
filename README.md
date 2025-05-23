@@ -41,8 +41,8 @@
 <h3>Sometimes formal, other times informal, but always cool</h3><br>
 
 <div align="center">
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWM5cW53bno4Yzc3aXZwN3g4cXYxeXoyenU2cnFiaDIzcXRiczJycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" width=30%>
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MxdmxtcXk4OGFkNWphZTIyZnJ4czIyc2hiOXYxb3RhZzBzenU4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46lBXGVqrI0YTKlfwG/giphy.gif" width=43%>
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwZm9saTczeXVhemoybXduZXBtazV1OGJ5eTZ2bG9pdndwb3Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcS3XN8pQO9wYWoOdW/giphy.gif" width=30%>
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RxYjB3Z2FzNnBwcDJiMzlidXZhamh1Ym1tbHh4NHZtNGw1bDZ5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPSUgEgcFybC36/giphy.gif" width=43%>
 </div>
 
 
