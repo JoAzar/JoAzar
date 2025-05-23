@@ -1,7 +1,9 @@
 <div align="center">
+  <h1>
   ```python
-  print("¡Hola Mundo!")```
-</div>
+  print("¡Hola Mundo!")
+  ```
+  </h1>
 <div align="center">
  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
 </div>
