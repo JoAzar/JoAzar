@@ -1,10 +1,8 @@
-<div align="center">
-  <h1>
+
   ```python
   print("¡Hola Mundo!")
   ```
-  </h1>
-<div align="center">
+
  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%" /></a>
 </div>
 <h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
