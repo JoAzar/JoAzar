@@ -54,7 +54,7 @@
 </div>
 <br>
 
-<h3>$\textcolor{#fcff33}{\textsf{Education}}$</h3>
+<h3>Education</h3>
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -62,7 +62,7 @@
 
 <br>
   
-<h3>$\textcolor{#33ccff}{\textsf{Softwares and Tools}}$</h3>
+<h3>Softwares and Tools</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -78,14 +78,14 @@
 
 <br>
 
-<h3>$\textcolor{#33ccff}{\textsf{Office Tools}}$</h3>
+<h3>Office Tools</h3>
 
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 <br>
 
-<h3>$\textcolor{#33ccff}{\textsf{Version Control}}$</h3>
+<h3>Version Control</h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -93,7 +93,7 @@
 
 <br>
 
-<h3>$\textcolor{#33ccff}{\textsf{IDEs/Editors}}$</h3>
+<h3>Editors</h3>
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
@@ -105,20 +105,20 @@
   
  <br>
 
- <h3>$\textcolor{#33ccff}{\textsf{Database}}$</h3>
+ <h3>Database</h3>
 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
  <br>
 
- <h3>$\textcolor{#33ccff}{\textsf{Cloud Hosting}}$</h3>
+ <h3>Cloud Hosting</h3>
   
  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
   
  <br>
 
- <h3>$\textcolor{#33ccff}{\textsf{Cloud Storage}}$</h3>
+ <h3>Cloud Storage</h3>
 
  ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
@@ -127,18 +127,18 @@
 
  <br>
 
- <h3>$\textcolor{#33ccff}{\textsf{Design}}$</h3>
+ <h3>Design</h3>
   
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
  <br>
- <h3>$\textcolor{#33ccff}{\textsf{Forum}}$</h3>
+ <h3>Forum</h3>
   
  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
  ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
   
  <br>
- <h3>$\textcolor{#33ccff}{\textsf{Search Engines}}$</h3>
+ <h3>Search Engines</h3>
   
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
@@ -153,7 +153,7 @@
 
 <div align="center">
  
-  <h1>$\textcolor{#ffda33}{\textsf{🥇 Recognitions 🥇}}$</h1>
+  <h1>🥇 Recognitions</h1>
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
 </div><br>
  
@@ -179,7 +179,7 @@
  
 <br><br>
 
-<h1>$\textcolor{#14add6}{\textsf{¡Let's Connect!}}$</h1>
+<h1>¡Let's Connect$</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
@@ -191,7 +191,7 @@
 <h3>www.youtube.com/@IIRedIII</h3>
 <br>
 
-<h1 align="center">$\textcolor{#14add6}{\textsf{Número de visitas}}$</h1>
+<h1 align="center">Número de visitas</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/JoAzar/count.svg)
 
