@@ -30,14 +30,14 @@
 </div>
 <br>
 <br>
- 
-<h3>A passionate developer, i'm currently learning Web Development by self and studing systems in the Universitary.</h3>
-   
-<h3>¡I fall in love for the tecnologies, hardware, software, wathever!</h3>
 
-<h3>If you have a course free is a just deal</h3>
+<div align="center">
+  <h3>A passionate developer, i'm currently learning Web Development by self and studing systems in the Universitary.</h3>
+  <h3>¡I fall in love for the tecnologies, hardware, software, wathever!</h3>
+  <h3>If you have a course free is a just deal</h3>
+  <h3>Sometimes formal, other times informal, but always cool</h3><br>
+</div>
 
-<h3>Sometimes formal, other times informal, but always cool</h3><br>
 
 <div align="center">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwZm9saTczeXVhemoybXduZXBtazV1OGJ5eTZ2bG9pdndwb3Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcS3XN8pQO9wYWoOdW/giphy.gif" width=40%>
