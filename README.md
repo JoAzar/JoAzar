@@ -48,7 +48,7 @@
 
 <div align="center">
   <h1>Languages</h1>
-  <div>
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html" />
   </div>
 </div>
