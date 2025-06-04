@@ -47,7 +47,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-  <h1>$\textcolor{#ffa733}{\textsf{Languages}}$</h1>
+  <h1>Languages</h1>
   <div>
     <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html" />
   </div>
