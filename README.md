@@ -78,23 +78,21 @@
 </div>
 <br>
 
-<div src="center">
+<div align="center">
   <h3>Office Tools</h3>
-  <div src="center">
-    <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  </div>
+  <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
 <br>
 
-<div src="center">
+<div align="center">
   <h3>Version Control</h3>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
 
-<div>
+<div align="center">
   <h3>Editors</h3>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
   <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
@@ -106,20 +104,20 @@
 </div>
  <br>
 
-<div src="center">
+<div align="center">
   <h3>Database</h3>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 <br>
 
-<div src="center">
+<div align="center">
   <h3>Cloud Hosting</h3>
   <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <br>
 
-<div src="center">
+<div align="center">
   <h3>Cloud Storage</h3>
   <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
@@ -128,20 +126,20 @@
 </div>
 <br>
 
-<div src="center">
+<div align="center">
   <h3>Design</h3>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 <br>
 
-<div src="center">
+<div align="center">
   <h3>Forum</h3>
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
 </div>
 <br>
 
-<div src="center">
+<div align="center">
   <h3>Search Engines</h3>
   <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white">
   <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
@@ -185,7 +183,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
 </p>
 
@@ -197,7 +195,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/JoAzar/count.svg">
 
-[![Linkedin: Joel Zalazar](https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191/)(https://www.linkedin.com/in/joel-zalazar-a69325191/)
+<p>ESTAS ACÁ</p>
+<img src="https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191">
+<a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
 
 [![GitHub JoAzar](https://img.shields.io/github/followers/JoAzar?label=follow&style=social)](https://github.com/JoAzar)
 
