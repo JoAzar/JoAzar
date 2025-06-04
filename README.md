@@ -29,9 +29,6 @@
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
 </div>
 <br>
- 
-
-<h1 align="center">¡Be Red!</h1>
 <br>
  
 <h3>A passionate developer, i'm currently learning Web Development by self and studing systems in the Universitary.</h3>
