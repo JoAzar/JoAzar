@@ -121,16 +121,13 @@
   <img src="https://profile-counter.glitch.me/JoAzar/count.svg">
   <img src="https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191">
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
+  <img src="https://img.shields.io/github/followers/JoAzar?label=follow&style=social">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
+  <img src="https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
 </div>
 
 
-<img src="https://img.shields.io/github/followers/JoAzar?label=follow&style=social">
 
-[![GitHub JoAzar](https://img.shields.io/github/followers/JoAzar?label=follow&style=social)](https://github.com/JoAzar)
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social)
-
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social)
 
 
 
