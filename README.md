@@ -109,13 +109,14 @@
     </a>
   </div>
   
-   <h1 color="red">¡Let's Connect!</h1>
+  <h1>¡Let's Connect!</h1>
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
 
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-  <h3>www.youtube.com/@IIRedIII</h3>
+  <a href="https://www.youtube.com/@IIRedIII">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
   <br>
   <h1 align="center">Número de visitas</h1>
   <img src="https://profile-counter.glitch.me/JoAzar/count.svg">
@@ -124,9 +125,3 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
   <img src="https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
 </div>
-
-
-
-
-
-
