@@ -15,19 +15,23 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api?username=JoAzar&hide_border=true&show_icons=true" alt="JoAzar's github stats"></a>
-  <a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"></a>
+  <a href="https://github.com/JoAzar">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoAzar&hide_border=true&show_icons=true" alt="JoAzar's github stats">
+  </a>
+  <a href="https://github.com/JoAzar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+  </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
+  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif">
   <h1>About me</h1>
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
-   <h3>A passionate developer, i'm currently learning Web Development, hacking, and others things by self and studing systems in the Universitary</h3>
+  <h3>A passionate developer, i'm currently learning Web Development, hacking, and others things by self and studing systems in the Universitary</h3>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwZm9saTczeXVhemoybXduZXBtazV1OGJ5eTZ2bG9pdndwb3Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcS3XN8pQO9wYWoOdW/giphy.gif" width=40%>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2M3g5anZnMXUwa2c1cGY5MTBqanBwMnM2Ynd4MjNqa3ZoaXU1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yNZBiGoV73NUN8Sn14/giphy.gif" width=40%>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
- <h1>Languages</h1>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h1>Languages</h1>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html">
   </div>
   
   <h3>Education</h3>
