@@ -13,10 +13,27 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
   </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif">
-  <h1>About me</h1>
-  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
-  <h3>A passionate developer, i'm currently learning Web Development, hacking, and others things by self and studing systems in the Universitary</h3>
+</div>
+
+  ```bash
+  echo "About me"
+  ```
+
+Mi nombre es Favio Joel Zalazar, aunque en el mundo digital soy conocido como Red. Me dedico al área de los sistemas informáticos, combinando conocimientos técnicos con una fuerte orientación al aprendizaje autodidacta y la mejora continua. Soy una persona que eligió reconstruirse desde cero múltiples veces, enfrentando adversidades con resiliencia, visión a largo plazo y una mentalidad de crecimiento constante, este enfoque no solo me ha permitido avanzar profesional y académicamente, sino también ayudar a otros que están transitando caminos similares.
+  
+## Mis principales proyectos giran en torno a
+
+- El desarrollo personal como motor de transformación
+
+- La creación de soluciones tecnológicas a través del software
+
+- La construcción de una marca digital que conecte con las personas desde lo humano y lo técnico
+
+- La difusión de contenido educativo, reflexivo y creativo en múltiples plataformas
+
+### Actualmente estoy enfocado en seguir aprendiendo, compartir lo que sé y construir herramientas que generen valor real en la vida de las personas. Creo en el poder de la tecnología como medio, pero también en la importancia de lo auténtico, lo imperfecto y lo humano detrás de cada pantalla
+
+<div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwZm9saTczeXVhemoybXduZXBtazV1OGJ5eTZ2bG9pdndwb3Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcS3XN8pQO9wYWoOdW/giphy.gif" width=40%>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2M3g5anZnMXUwa2c1cGY5MTBqanBwMnM2Ynd4MjNqa3ZoaXU1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yNZBiGoV73NUN8Sn14/giphy.gif" width=40%>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
