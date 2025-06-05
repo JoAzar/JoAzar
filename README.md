@@ -124,6 +124,7 @@
 </div>
 
 
+<img src="https://img.shields.io/github/followers/JoAzar?label=follow&style=social">
 
 [![GitHub JoAzar](https://img.shields.io/github/followers/JoAzar?label=follow&style=social)](https://github.com/JoAzar)
 
