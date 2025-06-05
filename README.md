@@ -118,12 +118,6 @@
   <h1>🥇 Recognitions</h1>
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif">
   <div>
-    <h2>Learning Statics 2023 from Udemy</h2>
-    <h3>1127 minutes</h3>
-    <h3>More than 89% of students</h3>
-    <h3>different topics learned: 13</h3>
-  </div>
-  <div>
     <h2>Colaborator in Mental health cycle</h2>
     <h3>Organized by the academic secretary and the general secretary of the UNGS</h3>
   </div>
