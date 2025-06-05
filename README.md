@@ -120,7 +120,6 @@
   <br>
   <h1 align="center">Número de visitas</h1>
   <img src="https://profile-counter.glitch.me/JoAzar/count.svg">
-  <a href="https://www.linkedin.com/in/joel-zalazar-a69325191"></a>
   <img src="https://img.shields.io/github/followers/JoAzar?label=follow&style=social">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
   <img src="https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
