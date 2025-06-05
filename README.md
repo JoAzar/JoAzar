@@ -19,34 +19,18 @@
   <a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api?username=JoAzar&hide_border=true&show_icons=true" alt="JoAzar's github stats"></a>
   <a href="https://github.com/JoAzar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"></a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-
-
-<div align="center">
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
   <h1>About me</h1>
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif"/>
    <h3>A passionate developer, i'm currently learning Web Development, hacking, and others things by self and studing systems in the Universitary</h3>
-</div>
-<br>
-
-<div align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwZm9saTczeXVhemoybXduZXBtazV1OGJ5eTZ2bG9pdndwb3Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcS3XN8pQO9wYWoOdW/giphy.gif" width=40%>
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2M3g5anZnMXUwa2c1cGY5MTBqanBwMnM2Ynd4MjNqa3ZoaXU1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yNZBiGoV73NUN8Sn14/giphy.gif" width=40%>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<div align="center">
-  <h1>Languages</h1>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwZm9saTczeXVhemoybXduZXBtazV1OGJ5eTZ2bG9pdndwb3Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcS3XN8pQO9wYWoOdW/giphy.gif" width=40%>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2M3g5anZnMXUwa2c1cGY5MTBqanBwMnM2Ynd4MjNqa3ZoaXU1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yNZBiGoV73NUN8Sn14/giphy.gif" width=40%>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+ <h1>Languages</h1>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html" />
   </div>
-</div>
-<br>
-
-<div align="center">
+  
   <h3>Education</h3>
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
   <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
@@ -106,12 +90,8 @@
   <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white">
   <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
   <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
-</div>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
   <h1>🥇 Recognitions</h1>
   <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0110.gif">
   <div>
@@ -128,31 +108,22 @@
       <img src="https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Badge" width="120">
     </a>
   </div>
-</div>
-
-
-
-
-<br>
-
-<div align="center">
-  <h1 color="red">¡Let's Connect!</h1>
+  
+   <h1 color="red">¡Let's Connect!</h1>
   <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
-</div>
 
-<div align="center">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   <h3>www.youtube.com/@IIRedIII</h3>
   <br>
   <h1 align="center">Número de visitas</h1>
   <img src="https://profile-counter.glitch.me/JoAzar/count.svg">
+  <img src="https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191">
+  <a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
 </div>
 
-<p>ESTAS ACÁ</p>
-<img src="https://img.shields.io/badge/-Zalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joel-zalazar-a69325191">
-<a href="https://www.linkedin.com/in/joel-zalazar-a69325191">
+
 
 [![GitHub JoAzar](https://img.shields.io/github/followers/JoAzar?label=follow&style=social)](https://github.com/JoAzar)
 
