@@ -117,7 +117,6 @@
   <a href="https://www.youtube.com/@IIRedIII">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
-  <br>
   <h1 align="center">Número de visitas</h1>
   <img src="https://profile-counter.glitch.me/JoAzar/count.svg">
   <img src="https://img.shields.io/github/followers/JoAzar?label=follow&style=social">
