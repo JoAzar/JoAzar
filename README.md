@@ -146,3 +146,7 @@ Mi nombre es Favio Joel Zalazar, aunque en el mundo digital soy conocido como Re
   <img src="https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
   <img src="https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
 </div>
+
+---
+
+*Creado por Favio Joel Zalazar*
