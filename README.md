@@ -6,7 +6,6 @@
  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%">
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
-  <img src="https://media1.giphy.com/media/1.Y2lkPTc5MGI3NjExaHY3aHZsNm13eGE1Y2JucDd3YmU0NHF2ZnF6bzZyZGxkaHR3bjA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width = 40%>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <a href="https://github.com/JoAzar">
     <img src="https://github-readme-stats.vercel.app/api?username=JoAzar&hide_border=true&show_icons=true" alt="JoAzar's github stats">
