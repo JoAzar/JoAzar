@@ -2,9 +2,9 @@
   ```python
   print("¡Hola Bienvenidos a mis repositorios de Github!")
   ```
+<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%">
 <div align="center">
- <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" width="35%">
-
+  <img src="https://giphy.com/gifs/static-color-bars-Ph0oIVQeuvh0k">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <a href="https://github.com/JoAzar">
