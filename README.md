@@ -141,7 +141,6 @@ Mi nombre es Favio Joel Zalazar, aunque en el mundo digital soy conocido como Re
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
   <h1 align="center">Número de visitas</h1>
-  <img src="https://profile-counter.glitch.me/JoAzar/count.svg">
   <img src="https://img.shields.io/github/followers/JoAzar?label=follow&style=social">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
   <img src="https://img.shields.io/youtube/channel/views/UCAT-nrHKdCrfGB9F5paIgpA?style=social">
