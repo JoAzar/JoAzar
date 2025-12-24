@@ -6,11 +6,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJhcmRpYWdsenF1em4yempobmk4N3Z3dnltbnp4czluZWc2amRqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ph0oIVQeuvh0k/giphy.gif">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk2N283ajVkdnFweHJqYWYzNDhmZmE0YnZjNHo3MzE1YngzNXM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="40%" height = "60%">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <a href="https://github.com/JoAzar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoAzar&layout=compact&title_color=%23007bff&text_color=%23e7e7e7&icon_color=%23007bff&bg_color=%23171c28" />
-  </a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
   ```bash
