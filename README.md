@@ -27,8 +27,8 @@ Mi nombre es Favio Joel Zalazar, aunque en el mundo digital soy conocido como Re
 ### Actualmente estoy enfocado en seguir aprendiendo, compartir lo que sé y construir herramientas que generen valor real en la vida de las personas. Creo en el poder de la tecnología como medio, pero también en la importancia de lo auténtico, lo imperfecto y lo humano detrás de cada pantalla
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwZm9saTczeXVhemoybXduZXBtazV1OGJ5eTZ2bG9pdndwb3Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qcS3XN8pQO9wYWoOdW/giphy.gif" width=40%>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2M3g5anZnMXUwa2c1cGY5MTBqanBwMnM2Ynd4MjNqa3ZoaXU1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yNZBiGoV73NUN8Sn14/giphy.gif" width=40%>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnM3dnY4anMwZGcyM3lkb3ljZWVrcnlmZzFuejUxMjI2aTJzN2gxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width=40%>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml3Mzg0aWY5a2pvajBtdWZhcmhscXY3ejlrYmg5ZzR6Z3cxdG80ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" width=40%>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   ```java
