@@ -37,7 +37,7 @@ Mi nombre es Favio Joel Zalazar, aunque en el mundo digital soy conocido como Re
   ```
 
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html">
+    <img src="https://skillicons.dev/icons?i=python,php,java,c,javascript,css,html,bash,go">
   </div>
   
   ```php
